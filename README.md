@@ -16,7 +16,7 @@ The **NFS-Inspired Car Configurator with AR Viewing** is a dynamic Unity-based a
    - Sophisticated AR car spawning mechanism.  
    - Accurate placement using **Vector3.Dot** and plane normals to calculate Y-position.  
 
-- 🛠 **Advanced Architecture**:  
+- 🛠 **Architecture**:  
    - **Observer Pattern**: Events and delegates for modular and decoupled communication.  
    - Clean, **scalable codebase** with Unity’s component-based architecture.  
 
